@@ -1,2 +1,12 @@
 Hii,This is soumya for collaboration......
+<<<<<<< HEAD
 Hii Team what happend...?
+=======
+Hii Team what happend...?
+<<<<<<< HEAD
+hello satya here ....
+=======
+
+Hello soumya...
+>>>>>>> 91f4c74cb0686b730f700d67ae74e4bbcf445a0a
+>>>>>>> f7d90957f012d7004763c877ef8daee8d19047f9
